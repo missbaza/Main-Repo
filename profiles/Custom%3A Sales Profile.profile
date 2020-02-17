@@ -1386,6 +1386,9 @@
         <layout>Account-Account %28Sales%29 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>Alexis__c-Alexis Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>Asset-Asset Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
