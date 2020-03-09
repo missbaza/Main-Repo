@@ -338,15 +338,6 @@
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
-        <fullName>Git_demo__c</fullName>
-        <defaultValue>false</defaultValue>
-        <description>Git demo CI for Jason</description>
-        <externalId>false</externalId>
-        <label>Git demo</label>
-        <trackFeedHistory>false</trackFeedHistory>
-        <type>Checkbox</type>
-    </fields>
-    <fields>
         <fullName>Industry</fullName>
         <trackFeedHistory>false</trackFeedHistory>
         <type>Picklist</type>
