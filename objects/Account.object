@@ -342,10 +342,11 @@
         <description>Git demo CI for Jason</description>
         <externalId>false</externalId>
         <label>Git demo</label>
+        <precision>11</precision>
         <required>false</required>
+        <scale>5</scale>
         <trackFeedHistory>false</trackFeedHistory>
-        <type>Email</type>
-        <unique>false</unique>
+        <type>Currency</type>
     </fields>
     <fields>
         <fullName>Industry</fullName>
