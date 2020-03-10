@@ -339,12 +339,13 @@
     </fields>
     <fields>
         <fullName>Git_demo__c</fullName>
-        <defaultValue>false</defaultValue>
         <description>Git demo CI for Jason</description>
         <externalId>false</externalId>
         <label>Git demo</label>
+        <required>false</required>
         <trackFeedHistory>false</trackFeedHistory>
-        <type>Checkbox</type>
+        <type>Email</type>
+        <unique>false</unique>
     </fields>
     <fields>
         <fullName>Industry</fullName>
