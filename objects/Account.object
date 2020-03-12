@@ -305,6 +305,15 @@
         <type>Lookup</type>
     </fields>
     <fields>
+        <fullName>Demo_10_13__c</fullName>
+        <defaultValue>false</defaultValue>
+        <description>Do you like Salesforce?</description>
+        <externalId>false</externalId>
+        <label>Demo 10:13</label>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
         <fullName>Demo_9_27__c</fullName>
         <defaultValue>false</defaultValue>
         <description>Are you watching this demo?</description>
