@@ -1,8 +1,4 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
-  <types>
-    <members>AnObjectWithAField__c-Layout %28with a bracket%29</members>
-    <name>Layout</name>
-  </types>
-  <version>39.0</version>
+  <version>44.0</version>
 </Package>
