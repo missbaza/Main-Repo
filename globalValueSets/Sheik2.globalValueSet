@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>Trial1</fullName>
+        <default>false</default>
+        <label>Trial1</label>
+    </customValue>
+    <customValue>
+        <fullName>Trial2</fullName>
+        <default>false</default>
+        <label>Trial2</label>
+    </customValue>
+    <customValue>
+        <fullName>Trial3</fullName>
+        <default>false</default>
+        <label>Trial3</label>
+    </customValue>
+    <masterLabel>Sheik2</masterLabel>
+    <sorted>false</sorted>
+</GlobalValueSet>

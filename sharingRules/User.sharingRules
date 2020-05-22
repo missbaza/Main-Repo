@@ -12,4 +12,17 @@
             <role>ChannelSalesTeam</role>
         </sharedFrom>
     </sharingOwnerRules>
+    <sharingCriteriaRules>
+        <fullName>SantoshTest</fullName>
+        <accessLevel>Edit</accessLevel>
+        <label>SantoshTest</label>
+        <sharedTo>
+            <allInternalUsers></allInternalUsers>
+        </sharedTo>
+        <criteriaItems>
+            <field>IsActive</field>
+            <operation>equals</operation>
+            <value>True</value>
+        </criteriaItems>
+    </sharingCriteriaRules>
 </SharingRules>

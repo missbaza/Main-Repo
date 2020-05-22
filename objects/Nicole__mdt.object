@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>New custom metadata type</description>
+    <fields>
+        <fullName>Did_you_deploy__c</fullName>
+        <defaultValue>false</defaultValue>
+        <externalId>false</externalId>
+        <fieldManageability>DeveloperControlled</fieldManageability>
+        <label>Did you deploy</label>
+        <type>Checkbox</type>
+    </fields>
+    <label>Nicole</label>
+    <pluralLabel>Nicoles</pluralLabel>
+    <visibility>Public</visibility>
+</CustomObject>

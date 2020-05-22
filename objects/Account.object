@@ -260,6 +260,17 @@
         </valueSet>
     </fields>
     <fields>
+        <fullName>Angela_test__c</fullName>
+        <externalId>false</externalId>
+        <label>Angela_test</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>0</scale>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Number</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>AnnualRevenue</fullName>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
@@ -305,6 +316,36 @@
         <type>Lookup</type>
     </fields>
     <fields>
+        <fullName>DeletingPicklistTest__c</fullName>
+        <externalId>false</externalId>
+        <label>DeletingPicklistTest</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Picklist</type>
+        <valueSet>
+            <restricted>true</restricted>
+            <valueSetDefinition>
+                <sorted>false</sorted>
+                <value>
+                    <fullName>Nicole</fullName>
+                    <default>false</default>
+                    <label>Nicole</label>
+                </value>
+                <value>
+                    <fullName>Chris</fullName>
+                    <default>false</default>
+                    <label>Chris</label>
+                </value>
+                <value>
+                    <fullName>Charlotte</fullName>
+                    <default>false</default>
+                    <isActive>false</isActive>
+                    <label>Charlotte</label>
+                </value>
+            </valueSetDefinition>
+        </valueSet>
+    </fields>
+    <fields>
         <fullName>Demo_10_13__c</fullName>
         <defaultValue>false</defaultValue>
         <description>Do you like Salesforce?</description>
@@ -325,6 +366,18 @@
     <fields>
         <fullName>Description</fullName>
         <trackFeedHistory>false</trackFeedHistory>
+    </fields>
+    <fields>
+        <fullName>DestructiveGlobalTest__c</fullName>
+        <externalId>false</externalId>
+        <label>DestructiveGlobalTest</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Picklist</type>
+        <valueSet>
+            <restricted>true</restricted>
+            <valueSetName>VincenzoDelete</valueSetName>
+        </valueSet>
     </fields>
     <fields>
         <fullName>DiscountPercentage__c</fullName>
@@ -374,6 +427,14 @@
     <fields>
         <fullName>Jigsaw</fullName>
         <trackFeedHistory>false</trackFeedHistory>
+    </fields>
+    <fields>
+        <fullName>Manit__c</fullName>
+        <defaultValue>false</defaultValue>
+        <externalId>false</externalId>
+        <label>Manit</label>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Checkbox</type>
     </fields>
     <fields>
         <fullName>NaicsCode</fullName>
@@ -726,6 +787,32 @@
             </values>
             <values>
                 <fullName>Medium</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>DeletingPicklistTest__c</picklist>
+            <values>
+                <fullName>Chris</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Nicole</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>DestructiveGlobalTest__c</picklist>
+            <values>
+                <fullName>Kieran</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Nicole</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Selin</fullName>
                 <default>false</default>
             </values>
         </picklistValues>
@@ -1086,6 +1173,32 @@
             </values>
             <values>
                 <fullName>Medium</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>DeletingPicklistTest__c</picklist>
+            <values>
+                <fullName>Chris</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Nicole</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>DestructiveGlobalTest__c</picklist>
+            <values>
+                <fullName>Kieran</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Nicole</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Selin</fullName>
                 <default>false</default>
             </values>
         </picklistValues>
