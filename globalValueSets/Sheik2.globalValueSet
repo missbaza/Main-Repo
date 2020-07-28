@@ -15,6 +15,11 @@
         <default>false</default>
         <label>Trial3</label>
     </customValue>
+    <customValue>
+        <fullName>Martin</fullName>
+        <default>false</default>
+        <label>Martin</label>
+    </customValue>
     <masterLabel>Sheik2</masterLabel>
     <sorted>false</sorted>
 </GlobalValueSet>
