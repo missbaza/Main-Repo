@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?><CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>FieldTrackingTest</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>FieldTrackingTests</value>
+    </caseValues>
+    <fields>
+        <label><!-- CheckboxField1 --></label>
+        <name>CheckboxField1__c</name>
+    </fields>
+    <fields>
+        <label><!-- NewFieldTrackingEnabled --></label>
+        <name>NewFieldTrackingEnabled__c</name>
+    </fields>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

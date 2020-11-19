@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?><CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Gwilym Test</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Gwilym's Tests</value>
+    </caseValues>
+    <fields>
+        <label><!-- Gwilym Discount --></label>
+        <name>Gwilym_T__c</name>
+    </fields>
+    <fields>
+        <label><!-- Gwilym number --></label>
+        <name>Gwilym_number__c</name>
+    </fields>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

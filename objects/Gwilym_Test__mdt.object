@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?><CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>Testing about records as custom metadata</description>
+    <fields>
+        <fullName>Gwilym_T__c</fullName>
+        <externalId>false</externalId>
+        <fieldManageability>DeveloperControlled</fieldManageability>
+        <label>Gwilym Discount</label>
+        <precision>2</precision>
+        <required>false</required>
+        <scale>0</scale>
+        <type>Percent</type>
+    </fields>
+    <fields>
+        <fullName>Gwilym_number__c</fullName>
+        <externalId>false</externalId>
+        <fieldManageability>SubscriberControlled</fieldManageability>
+        <label>Gwilym number</label>
+        <precision>6</precision>
+        <required>false</required>
+        <scale>0</scale>
+        <type>Number</type>
+        <unique>false</unique>
+    </fields>
+    <label>Gwilym Test</label>
+    <pluralLabel>Gwilym's Tests</pluralLabel>
+    <visibility>Public</visibility>
+</CustomObject>

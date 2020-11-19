@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?><CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fields>
+        <fullName>Vikranth_Field__c</fullName>
+        <defaultValue>false</defaultValue>
+        <externalId>false</externalId>
+        <fieldManageability>DeveloperControlled</fieldManageability>
+        <label>Vikranth Field</label>
+        <type>Checkbox</type>
+    </fields>
+    <label>Vikranth Test</label>
+    <pluralLabel>Vikranth Test</pluralLabel>
+    <visibility>Public</visibility>
+</CustomObject>

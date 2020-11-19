@@ -237,6 +237,10 @@
             <label>Delivery/Installation Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N3z00000Cen66</field>
+            <label>FieldTracking</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N3z000008Evqi</field>
             <label>Main Competitor(s)</label>
         </opportunityListFieldsLabelMappings>
@@ -284,6 +288,7 @@
             <field>OPPORTUNITY.LAST_UPDATE</field>
             <field>00N3z000008Evqg</field>
             <field>00N3z000008Evqh</field>
+            <field>00N3z00000Cen66</field>
             <field>00N3z000008Evqi</field>
             <field>00N3z000008Evqj</field>
             <field>00N3z000008Evqk</field>
@@ -451,6 +456,10 @@
             <label>Delivery/Installation Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N3z00000Cen66</field>
+            <label>FieldTracking</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N3z000008Evqi</field>
             <label>Main Competitor(s)</label>
         </opportunityListFieldsLabelMappings>
@@ -498,6 +507,7 @@
             <field>OPPORTUNITY.LAST_UPDATE</field>
             <field>00N3z000008Evqg</field>
             <field>00N3z000008Evqh</field>
+            <field>00N3z00000Cen66</field>
             <field>00N3z000008Evqi</field>
             <field>00N3z000008Evqj</field>
             <field>00N3z000008Evqk</field>
@@ -669,6 +679,10 @@
             <label>Delivery/Installation Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N3z00000Cen66</field>
+            <label>FieldTracking</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N3z000008Evqi</field>
             <label>Main Competitor(s)</label>
         </opportunityListFieldsLabelMappings>
@@ -717,6 +731,7 @@
             <field>OPPORTUNITY.LAST_UPDATE</field>
             <field>00N3z000008Evqg</field>
             <field>00N3z000008Evqh</field>
+            <field>00N3z00000Cen66</field>
             <field>00N3z000008Evqi</field>
             <field>00N3z000008Evqj</field>
             <field>00N3z000008Evqk</field>
@@ -884,6 +899,10 @@
             <label>Delivery/Installation Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N3z00000Cen66</field>
+            <label>FieldTracking</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N3z000008Evqi</field>
             <label>Main Competitor(s)</label>
         </opportunityListFieldsLabelMappings>
@@ -931,6 +950,7 @@
             <field>OPPORTUNITY.LAST_UPDATE</field>
             <field>00N3z000008Evqg</field>
             <field>00N3z000008Evqh</field>
+            <field>00N3z00000Cen66</field>
             <field>00N3z000008Evqi</field>
             <field>00N3z000008Evqj</field>
             <field>00N3z000008Evqk</field>
@@ -1102,6 +1122,10 @@
             <label>Delivery/Installation Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N3z00000Cen66</field>
+            <label>FieldTracking</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N3z000008Evqi</field>
             <label>Main Competitor(s)</label>
         </opportunityListFieldsLabelMappings>
@@ -1150,6 +1174,7 @@
             <field>OPPORTUNITY.LAST_UPDATE</field>
             <field>00N3z000008Evqg</field>
             <field>00N3z000008Evqh</field>
+            <field>00N3z00000Cen66</field>
             <field>00N3z000008Evqi</field>
             <field>00N3z000008Evqj</field>
             <field>00N3z000008Evqk</field>
@@ -1317,6 +1342,10 @@
             <label>Delivery/Installation Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N3z00000Cen66</field>
+            <label>FieldTracking</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N3z000008Evqi</field>
             <label>Main Competitor(s)</label>
         </opportunityListFieldsLabelMappings>
@@ -1364,6 +1393,7 @@
             <field>OPPORTUNITY.LAST_UPDATE</field>
             <field>00N3z000008Evqg</field>
             <field>00N3z000008Evqh</field>
+            <field>00N3z00000Cen66</field>
             <field>00N3z000008Evqi</field>
             <field>00N3z000008Evqj</field>
             <field>00N3z000008Evqk</field>
@@ -1535,6 +1565,10 @@
             <label>Delivery/Installation Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N3z00000Cen66</field>
+            <label>FieldTracking</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N3z000008Evqi</field>
             <label>Main Competitor(s)</label>
         </opportunityListFieldsLabelMappings>
@@ -1583,6 +1617,7 @@
             <field>OPPORTUNITY.LAST_UPDATE</field>
             <field>00N3z000008Evqg</field>
             <field>00N3z000008Evqh</field>
+            <field>00N3z00000Cen66</field>
             <field>00N3z000008Evqi</field>
             <field>00N3z000008Evqj</field>
             <field>00N3z000008Evqk</field>
@@ -1750,6 +1785,10 @@
             <label>Delivery/Installation Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N3z00000Cen66</field>
+            <label>FieldTracking</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N3z000008Evqi</field>
             <label>Main Competitor(s)</label>
         </opportunityListFieldsLabelMappings>
@@ -1797,6 +1836,7 @@
             <field>OPPORTUNITY.LAST_UPDATE</field>
             <field>00N3z000008Evqg</field>
             <field>00N3z000008Evqh</field>
+            <field>00N3z00000Cen66</field>
             <field>00N3z000008Evqi</field>
             <field>00N3z000008Evqj</field>
             <field>00N3z000008Evqk</field>
@@ -1968,6 +2008,10 @@
             <label>Delivery/Installation Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N3z00000Cen66</field>
+            <label>FieldTracking</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N3z000008Evqi</field>
             <label>Main Competitor(s)</label>
         </opportunityListFieldsLabelMappings>
@@ -2016,6 +2060,7 @@
             <field>OPPORTUNITY.LAST_UPDATE</field>
             <field>00N3z000008Evqg</field>
             <field>00N3z000008Evqh</field>
+            <field>00N3z00000Cen66</field>
             <field>00N3z000008Evqi</field>
             <field>00N3z000008Evqj</field>
             <field>00N3z000008Evqk</field>
@@ -2183,6 +2228,10 @@
             <label>Delivery/Installation Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N3z00000Cen66</field>
+            <label>FieldTracking</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N3z000008Evqi</field>
             <label>Main Competitor(s)</label>
         </opportunityListFieldsLabelMappings>
@@ -2230,6 +2279,7 @@
             <field>OPPORTUNITY.LAST_UPDATE</field>
             <field>00N3z000008Evqg</field>
             <field>00N3z000008Evqh</field>
+            <field>00N3z00000Cen66</field>
             <field>00N3z000008Evqi</field>
             <field>00N3z000008Evqj</field>
             <field>00N3z000008Evqk</field>
@@ -2401,6 +2451,10 @@
             <label>Delivery/Installation Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N3z00000Cen66</field>
+            <label>FieldTracking</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N3z000008Evqi</field>
             <label>Main Competitor(s)</label>
         </opportunityListFieldsLabelMappings>
@@ -2449,6 +2503,7 @@
             <field>OPPORTUNITY.LAST_UPDATE</field>
             <field>00N3z000008Evqg</field>
             <field>00N3z000008Evqh</field>
+            <field>00N3z00000Cen66</field>
             <field>00N3z000008Evqi</field>
             <field>00N3z000008Evqj</field>
             <field>00N3z000008Evqk</field>
@@ -2616,6 +2671,10 @@
             <label>Delivery/Installation Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N3z00000Cen66</field>
+            <label>FieldTracking</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N3z000008Evqi</field>
             <label>Main Competitor(s)</label>
         </opportunityListFieldsLabelMappings>
@@ -2663,6 +2722,7 @@
             <field>OPPORTUNITY.LAST_UPDATE</field>
             <field>00N3z000008Evqg</field>
             <field>00N3z000008Evqh</field>
+            <field>00N3z00000Cen66</field>
             <field>00N3z000008Evqi</field>
             <field>00N3z000008Evqj</field>
             <field>00N3z000008Evqk</field>
