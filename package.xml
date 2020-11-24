@@ -24,10 +24,11 @@
     <members>Work%2Ecom Only User</members>
     <name>Profile</name>
   </types>
+  <fullName>MyPkg</fullName>
   <types>
     <members>Richard_test</members>
     <members>Tiago_test</members>
-    <name>CustomLabels</name>
+    <name>CustomLabel</name>
   </types>
   <version>47.0</version>
 </Package>
