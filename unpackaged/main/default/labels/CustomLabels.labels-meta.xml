@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?><CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>Richard_test</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Richard test</shortDescription>
+        <value>500</value>
+    </labels>
+    <labels>
+        <fullName>Tiago_test</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Tiago test</shortDescription>
+        <value>Regex filtering possible</value>
+    </labels>
+</CustomLabels>
