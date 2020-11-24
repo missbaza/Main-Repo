@@ -25,7 +25,7 @@
     <name>Profile</name>
   </types>
   <types>
-    <members>*</members>
+    <members>CustomLabels</members>
     <name>CustomLabels</name>
   </types>
   <version>47.0</version>
