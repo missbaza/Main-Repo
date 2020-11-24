@@ -28,6 +28,6 @@
     <members>Richard_test</members>
     <members>Tiago_test</members>
     <name>CustomLabel</name>
-	</types>
+  </types>
   <version>47.0</version>
 </Package>
