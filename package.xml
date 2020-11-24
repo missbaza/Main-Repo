@@ -24,5 +24,10 @@
     <members>Work%2Ecom Only User</members>
     <name>Profile</name>
   </types>
+  <types>
+		<members>Richard_test</members>
+    <members>Tiago_test</members>
+    <name>CustomLabel</name>
+	</types>
   <version>47.0</version>
 </Package>
