@@ -265,6 +265,9 @@
     </fields>
     <fields>
         <fullName>Angela_test__c</fullName>
+        <businessStatus>Active</businessStatus>
+        <complianceGroup>HIPAA</complianceGroup>
+        <description>It is what it is.</description>
         <externalId>false</externalId>
         <label>Angela_test</label>
         <precision>18</precision>
