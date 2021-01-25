@@ -440,7 +440,8 @@
     </fields>
     <fields>
         <fullName>Git_demo__c</fullName>
-        <description>Git demo CI for Jason</description>
+        <complianceGroup>HIPAA</complianceGroup>
+        <description>Git demo CI for Jason. Edited.</description>
         <externalId>false</externalId>
         <label>Git demo</label>
         <precision>11</precision>
