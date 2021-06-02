@@ -415,7 +415,7 @@
     </fields>
     <fields>
         <fullName>DiscountPercentage__c</fullName>
-        <description>Demo June</description>
+        <description>What does it all mean</description>
         <externalId>false</externalId>
         <formula>DiscountRate__c / 100</formula>
         <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
