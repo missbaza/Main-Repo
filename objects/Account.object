@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?><CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
     <actionOverrides>
         <actionName>CallHighlightAction</actionName>
         <type>Default</type>
@@ -259,6 +260,11 @@
                     <fullName>Sometimes</fullName>
                     <default>false</default>
                     <label>Sometimes</label>
+                </value>
+                <value>
+                    <fullName>Heck yeah</fullName>
+                    <default>false</default>
+                    <label>Heck yeah</label>
                 </value>
             </valueSetDefinition>
         </valueSet>
