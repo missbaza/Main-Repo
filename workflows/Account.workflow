@@ -6,7 +6,7 @@
         <name>Duplicate 1</name>
         <notifyAssignee>false</notifyAssignee>
         <operation>Null</operation>
-        <protected>false</protected>
+        <protected>true</protected>
     </fieldUpdates>
     <fieldUpdates>
         <fullName>Duplicate_1</fullName>
