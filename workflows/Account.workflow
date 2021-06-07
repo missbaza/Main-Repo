@@ -9,9 +9,9 @@
         <protected>false</protected>
     </fieldUpdates>
     <fieldUpdates>
-        <fullName>Duplicate_2</fullName>
+        <fullName>Duplicate_1</fullName>
         <field>BillingStreet</field>
-        <name>Duplicate 2</name>
+        <name>Duplicate 1</name>
         <notifyAssignee>false</notifyAssignee>
         <operation>Null</operation>
         <protected>false</protected>
