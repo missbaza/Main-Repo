@@ -34,5 +34,5 @@
             <targetReference>Contact_Info</targetReference>
         </connector>
     </start>
-    <status>Draft</status>
+    <status>Active</status>
 </Flow>
