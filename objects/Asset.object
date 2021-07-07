@@ -226,6 +226,7 @@
     <fields>
         <fullName>Uuid</fullName>
         <inlineHelpText>Unique string identifying the asset.</inlineHelpText>
+        <trackFeedHistory>false</trackFeedHistory>
         <trackHistory>false</trackHistory>
     </fields>
     <listViews>
